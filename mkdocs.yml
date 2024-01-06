@@ -1,0 +1,45 @@
+site_name: Geo Bharat
+theme:
+  name: material
+  custom_dir: docs/overrides/
+  logo: assets/images/gb.png
+  palette:
+    primary: custom
+  favicon: assets/images/gb.png
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+  # features:
+  #   - announce.dismiss
+
+nav:
+  - 🏠 Home : index.md
+  - 🗣️ Talks : 
+    - pages/talks/index.md
+    - 31-12-2023 : pages/talks/31-12-2023.md
+    - 13-01-2024 : pages/talks/13-01-2024.md
+
+
+# plugins:
+#   - macros
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/geobharat
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/channel/UCyh9f6Y6XF6W4cGWo_W1ENg
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/geobharat
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/geo-bharat
+  variables:
+    - ytwidth : 1000
+    - ytheight : 1000
+
+extra_css:
+  - stylesheets/extra.css
+
+
+
+
