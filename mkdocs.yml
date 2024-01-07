@@ -1,4 +1,5 @@
 site_name: Geo Bharat
+site_url : https://geobharat.github.io/
 theme:
   name: material
   custom_dir: docs/overrides/
@@ -18,7 +19,9 @@ nav:
     - pages/talks/index.md
     - 31-12-2023 : pages/talks/31-12-2023.md
     - 13-01-2024 : pages/talks/13-01-2024.md
-
+  - 💻 Workshop : 
+    - pages/workshop/index.md
+  - 🤝🏻 Help : help.md
 
 # plugins:
 #   - macros
@@ -40,6 +43,8 @@ extra:
 extra_css:
   - stylesheets/extra.css
 
+extra_javascript:
+  - javascripts/extra.js
 
 
 

@@ -35,3 +35,11 @@ Being able to contribute to code/documentations/issues for various open source p
 <div class="iframe-container">
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeyDNqJJ8VyKUlBY6cV8fyMzOBYZIwi9k6fsy_HGwHZIu1QOg/viewform?embedded=true" width="640" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 </div>
+
+
+### Subscribe to newsletter
+
+<div class="iframe-container">
+<div style="text-align: center" class="sender-form-field" data-sender-form-id="lr2ymi9fdnqn2bf4xn4"></div>
+
+</div>
