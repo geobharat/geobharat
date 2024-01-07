@@ -23,9 +23,9 @@ nav:
     - pages/workshop/index.md
   - 🤝🏻 Help : help.md
 
-# plugins:
-#   - macros
-
+markdown_extensions:
+  - meta
+  
 extra:
   social:
     - icon: fontawesome/brands/github

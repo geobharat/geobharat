@@ -2,6 +2,9 @@
 hide:
   - navigation
   - toc
+
+title: Geo Bharat's official Home page
+description: Geo Bharat is an open community group focusing on gathering geospatial experts together.
 ---
 # Welcome to Geo Bharat
 
