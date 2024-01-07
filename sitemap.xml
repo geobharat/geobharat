@@ -6,6 +6,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://geobharat.github.io/help/</loc>
+         <lastmod>2024-01-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://geobharat.github.io/pages/talks/</loc>
          <lastmod>2024-01-07</lastmod>
          <changefreq>daily</changefreq>
@@ -17,6 +22,11 @@
     </url>
     <url>
          <loc>https://geobharat.github.io/pages/talks/31-12-2023/</loc>
+         <lastmod>2024-01-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://geobharat.github.io/pages/workshop/</loc>
          <lastmod>2024-01-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
