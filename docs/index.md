@@ -15,8 +15,8 @@ Geo Bharat is an open community created by [Krishna Lodha](https://krishnaglodha
 
 ## Upcoming events
 
-1. Vector Tile Talks
-2. OSM talk
+1. [Vector Tile in PostGIS](https://geobharat.github.io/pages/talks/13-01-2024/)
+2. [Enhancing Rendering with COG](https://geobharat.github.io/pages/talks/27-01-2024/)
 3. OGC event
 
 
