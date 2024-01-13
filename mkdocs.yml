@@ -26,6 +26,7 @@ nav:
 
 markdown_extensions:
   - meta
+  - tables
   
 extra:
   social:
@@ -40,6 +41,9 @@ extra:
   variables:
     - ytwidth : 1000
     - ytheight : 1000
+  analytics:
+    provider: google
+    property: G-3B75HL0FJ9
 
 extra_css:
   - stylesheets/extra.css
