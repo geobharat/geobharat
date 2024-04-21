@@ -20,7 +20,7 @@ If you are doing something amazing in Geospatial domain, we want to hear it. Let
 | 10-02-2024       | Mapping the way for Humanity with OSM  | [Pawan Muddu](https://www.linkedin.com/in/pawan-muddu-61716534/) | [Watch Here](https://www.youtube.com/watch?v=Qd_LgCK4tpY) |
 | 09-03-2024       | Open Source Routing Engine - valhalla  | [Ian Wagner](https://www.linkedin.com/in/ian-w-wagner/) | [Watch Here](https://www.youtube.com/watch?v=FpyEld_CImo) |
 | 20-04-2024       | Using open source navigation SDK - ferrostar | [Ian Wagner](https://www.linkedin.com/in/ian-w-wagner/) | [Watch here](https://www.youtube.com/watch?v=8PuWu_Pi2sk) |
-| 04-05-2024       | Looking for presenter  | [Apply here](hhttps://forms.gle/HBpPZBMHHctz2qF47) |
+| 04-05-2024       | OSM - beyond the basics  | [Chinmay Shaligram](https://www.linkedin.com/in/chinmayshaligram/) | [Watch here](https://youtube.com/live/X7MGC6EXOp4) |
 | 18-05-2024       | Looking for presenter  | [Apply here](hhttps://forms.gle/HBpPZBMHHctz2qF47) |
 | 01-06-2024       | Looking for presenter  | [Apply here](hhttps://forms.gle/HBpPZBMHHctz2qF47) |
 | 15-06-2024       | Modern Geospatial formats  | [Ian Wagner](https://www.linkedin.com/in/ian-w-wagner/) | [Watch here](https://www.youtube.com/watch?v=KTruf6aJ5UM) |
