@@ -18,10 +18,7 @@ If you are doing something amazing in Geospatial domain, we want to hear it. Let
 | 13-01-2024       | Serving PostGIS data as Vector Tiles  | [Devdatta Tengshe](https://www.linkedin.com/in/devdattat/) | [Watch Here](https://geobharat.github.io/pages/talks/13-01-2024/) |
 | 27-01-2024       | Reducing File Size and Enhancing Rendering with COG  | [Malcolm Afonso](https://www.linkedin.com/in/malcolm-afonso-70024bb7/) | [Watch Here](https://geobharat.github.io/pages/talks/27-01-2024/) |
 | 10-02-2024       | Mapping the way for Humanity with OSM  | [Pawan Muddu](https://www.linkedin.com/in/pawan-muddu-61716534/) | [Watch Here](https://www.youtube.com/watch?v=Qd_LgCK4tpY) |
-| 24-02-2024       | Getting Started with GeoAI  | [Tek Kshetri](https://www.linkedin.com/in/iamtekson/) |  [Watch Here](https://www.youtube.com/watch?v=Au3dl5qbmmU) |
 | 09-03-2024       | Open Source Routing Engine - valhalla  | [Ian Wagner](https://www.linkedin.com/in/ian-w-wagner/) | [Watch Here](https://www.youtube.com/watch?v=FpyEld_CImo) |
-| 23-03-2024       | Looking for presenter  | [Apply here](hhttps://forms.gle/HBpPZBMHHctz2qF47) |
-| 06-04-2024       | Looking for presenter  | [Apply here](hhttps://forms.gle/HBpPZBMHHctz2qF47) |
 | 20-04-2024       | Using open source navigation SDK - ferrostar | [Ian Wagner](https://www.linkedin.com/in/ian-w-wagner/) | [Watch here](https://www.youtube.com/watch?v=8PuWu_Pi2sk) |
 | 04-05-2024       | Looking for presenter  | [Apply here](hhttps://forms.gle/HBpPZBMHHctz2qF47) |
 | 18-05-2024       | Looking for presenter  | [Apply here](hhttps://forms.gle/HBpPZBMHHctz2qF47) |
