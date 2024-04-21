@@ -21,23 +21,23 @@ If you are doing something amazing in Geospatial domain, we want to hear it. Let
 | 09-03-2024       | Open Source Routing Engine - valhalla  | [Ian Wagner](https://www.linkedin.com/in/ian-w-wagner/) | [Watch Here](https://www.youtube.com/watch?v=FpyEld_CImo) |
 | 20-04-2024       | Using open source navigation SDK - ferrostar | [Ian Wagner](https://www.linkedin.com/in/ian-w-wagner/) | [Watch here](https://www.youtube.com/watch?v=8PuWu_Pi2sk) |
 | 04-05-2024       | OSM - beyond the basics  | [Chinmay Shaligram](https://www.linkedin.com/in/chinmayshaligram/) | [Watch here](https://youtube.com/live/X7MGC6EXOp4) |
-| 18-05-2024       | Looking for presenter  | [Apply here](hhttps://forms.gle/HBpPZBMHHctz2qF47) |
-| 01-06-2024       | Looking for presenter  | [Apply here](hhttps://forms.gle/HBpPZBMHHctz2qF47) |
+| 18-05-2024       | Looking for presenter  | [Apply here](https://forms.gle/HBpPZBMHHctz2qF47) |
+| 01-06-2024       | Looking for presenter  | [Apply here](https://forms.gle/HBpPZBMHHctz2qF47) |
 | 15-06-2024       | Modern Geospatial formats  | [Ian Wagner](https://www.linkedin.com/in/ian-w-wagner/) | [Watch here](https://www.youtube.com/watch?v=KTruf6aJ5UM) |
-| 29-06-2024       | Looking for presenter  | [Apply here](hhttps://forms.gle/HBpPZBMHHctz2qF47) |
-| 13-07-2024       | Looking for presenter  | [Apply here](hhttps://forms.gle/HBpPZBMHHctz2qF47) |
-| 27-07-2024       | Looking for presenter  | [Apply here](hhttps://forms.gle/HBpPZBMHHctz2qF47) |
-| 10-08-2024       | Looking for presenter  | [Apply here](hhttps://forms.gle/HBpPZBMHHctz2qF47) |
-| 24-08-2024       | Looking for presenter  | [Apply here](hhttps://forms.gle/HBpPZBMHHctz2qF47) |
-| 07-09-2024       | Looking for presenter  | [Apply here](hhttps://forms.gle/HBpPZBMHHctz2qF47) |
-| 21-09-2024       | Looking for presenter  | [Apply here](hhttps://forms.gle/HBpPZBMHHctz2qF47) |
-| 05-10-2024       | Looking for presenter  | [Apply here](hhttps://forms.gle/HBpPZBMHHctz2qF47) |
-| 19-10-2024       | Looking for presenter  | [Apply here](hhttps://forms.gle/HBpPZBMHHctz2qF47) |
-| 02-11-2024       | Looking for presenter  | [Apply here](hhttps://forms.gle/HBpPZBMHHctz2qF47) |
-| 16-11-2024       | Looking for presenter  | [Apply here](hhttps://forms.gle/HBpPZBMHHctz2qF47) |
-| 30-11-2024       | Looking for presenter  | [Apply here](hhttps://forms.gle/HBpPZBMHHctz2qF47) |
-| 14-12-2024       | Looking for presenter  | [Apply here](hhttps://forms.gle/HBpPZBMHHctz2qF47) |
-| 28-12-2024       | Looking for presenter  | [Apply here](hhttps://forms.gle/HBpPZBMHHctz2qF47) |
+| 29-06-2024       | Looking for presenter  | [Apply here](https://forms.gle/HBpPZBMHHctz2qF47) |
+| 13-07-2024       | Looking for presenter  | [Apply here](https://forms.gle/HBpPZBMHHctz2qF47) |
+| 27-07-2024       | Looking for presenter  | [Apply here](https://forms.gle/HBpPZBMHHctz2qF47) |
+| 10-08-2024       | Looking for presenter  | [Apply here](https://forms.gle/HBpPZBMHHctz2qF47) |
+| 24-08-2024       | Looking for presenter  | [Apply here](https://forms.gle/HBpPZBMHHctz2qF47) |
+| 07-09-2024       | Looking for presenter  | [Apply here](https://forms.gle/HBpPZBMHHctz2qF47) |
+| 21-09-2024       | Looking for presenter  | [Apply here](https://forms.gle/HBpPZBMHHctz2qF47) |
+| 05-10-2024       | Looking for presenter  | [Apply here](https://forms.gle/HBpPZBMHHctz2qF47) |
+| 19-10-2024       | Looking for presenter  | [Apply here](https://forms.gle/HBpPZBMHHctz2qF47) |
+| 02-11-2024       | Looking for presenter  | [Apply here](https://forms.gle/HBpPZBMHHctz2qF47) |
+| 16-11-2024       | Looking for presenter  | [Apply here](https://forms.gle/HBpPZBMHHctz2qF47) |
+| 30-11-2024       | Looking for presenter  | [Apply here](https://forms.gle/HBpPZBMHHctz2qF47) |
+| 14-12-2024       | Looking for presenter  | [Apply here](https://forms.gle/HBpPZBMHHctz2qF47) |
+| 28-12-2024       | Looking for presenter  | [Apply here](https://forms.gle/HBpPZBMHHctz2qF47) |
 
 
 We are inviting Geospatial analysts, developers, users, professors, government authorities, Business owners, freelancers,etc. to talk about it. 
